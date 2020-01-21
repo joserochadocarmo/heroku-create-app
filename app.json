@@ -1,0 +1,18 @@
+{
+  "name": "Heroku Clone",
+  "description": "Heroku Clone.",
+  "keywords": [
+    "graphql",
+    "heroku",
+    "postgres",
+    "hasura"
+  ],
+  "formation": {
+    "web": {
+      "quantity": 1,
+      "size": "free"
+    }
+  },
+  "stack": "container",
+  "addons": []
+}
